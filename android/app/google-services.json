@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "126416727699",
+    "project_id": "playground-12ca6",
+    "storage_bucket": "playground-12ca6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126416727699:android:98441c66216f621e802766",
+        "android_client_info": {
+          "package_name": "com.conjuringmidas.firebase_playground"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126416727699-a3nsmf34bedtkffrudrkutsr6u7h0i7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiYEX46_0-VnEkDhRfxWidKIHMeVJqMNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126416727699-a3nsmf34bedtkffrudrkutsr6u7h0i7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126416727699:android:388074a2d1a69181802766",
+        "android_client_info": {
+          "package_name": "com.conjuringmidas.marcusng_fb_signin_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126416727699-51ib1bh6a9fjg3aeqhqvq79bh2h0nk9a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.conjuringmidas.marcusng_fb_signin_login",
+            "certificate_hash": "3f642ee531812ba6bcfec3573bb87c5e6a35b333"
+          }
+        },
+        {
+          "client_id": "126416727699-a3nsmf34bedtkffrudrkutsr6u7h0i7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiYEX46_0-VnEkDhRfxWidKIHMeVJqMNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126416727699-a3nsmf34bedtkffrudrkutsr6u7h0i7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
